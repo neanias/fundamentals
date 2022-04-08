@@ -9,10 +9,10 @@ With RSpec, we write tests to ensure our code is doing what we want it to.
 <details>
 <summary>Installing Ruby</summary>
 <br/>
-To install and manage Ruby, the best bet is to use
-[rbenv](https://github.com/rbenv/rbenv#installation). Follow the installation steps in their repo,
-then run `rbenv install` in this directory and `rbenv` will install the required version of Ruby
-for you.
+To install and manage Ruby, the best bet is to use <a
+href="https://github.com/rbenv/rbenv#installation">rbenv</a>. Follow the installation steps in
+their repo, then run <code>rbenv install</code> in this directory and <code>rbenv</code> will
+install the required version of Ruby for you.
 </details>
 
 To get this ready to go on your machine, run the following command to install the gems required
